@@ -13,7 +13,7 @@ the brightest star in the sky.
 A Github Blog powered by "jekyll-now".
 
 
-You can find more ARTS by joining us in [slack group](https://join.slack.com/t/mntfun/shared_invite/enQtNDk1MzM3NTQ0OTE4LTIzODYwNWZkMmI4NDljMDdhNWNjOTRmNmFiNjdjNzFkOTI5OTk5YjRiODQyMGMxMzZjZmVjNmIzZDI0YWI5Y2E).
+You can find more ARTS by joining us in [slack](https://join.slack.com/t/mntfun/shared_invite/enQtNDk1MzM3NTQ0OTE4LTIzODYwNWZkMmI4NDljMDdhNWNjOTRmNmFiNjdjNzFkOTI5OTk5YjRiODQyMGMxMzZjZmVjNmIzZDI0YWI5Y2E).
 
 ### Contact me
 
