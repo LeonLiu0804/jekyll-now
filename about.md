@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-A Github Blog powered by jekyll-now.
+A Github Blog powered by "jekyll-now".
 
 ### More Information
 
