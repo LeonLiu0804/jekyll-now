@@ -7,6 +7,7 @@ Sirius:
 A binary star in the constellation Canis Major,
 the brightest star in the sky.
 
+ARTS: Algorithm,Review,Tip,Share
 
 ### More Information
 
